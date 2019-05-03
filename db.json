@@ -27,5 +27,114 @@
     ],
     "profile": {
         "name": "typicode"
-    }
+    },
+    "evaluation": [{
+        "evaluates": [{
+            "topic_name": "ความรับผิดชอบ",
+            "subtopics": [{
+                "subtopic_name": "1. ความรับผิดชอบต่อหน้าที่และองค์กร",
+                "choices": [
+                    {
+                        "choice_name": "รับผิดชอบต่องานของตนเอง (และของทีมงาน) จนสำเร็จลุล่วงอย่างมีประสิทธิภาพรับฟังและปรับปรุงข้อผิดพลาดที่เกิดขึ้น",
+                        "choice_maxpoint": "2",
+                        "choice_minpoint": "2"
+                    },
+                    {
+                        "choice_name": "รับผิดชอบต่องานของตนเอง (และของทีมงาน) จนสำเร็จลุล่วง รับฟังและปรับปรุงข้อผิดพลาดที่เกิดขึ้นบ้างในบางครั้ง",
+                        "choice_maxpoint": "1",
+                        "choice_minpoint": "1"
+                    },
+                    {
+                        "choice_name": "ทำงานสำเร็จลุล่วงได้ แต่ไม่ค่อยภายในระยะเวลาที่กำหนด ไม่พยายามปรับปรุงข้อผิดพลาดที่เกิดขึ้น",
+                        "choice_maxpoint": "1",
+                        "choice_minpoint": "1"
+                    }
+                ]
+            },{
+                "subtopic_name": "2. ความเอาใจใส่ต่องานและการติดตาม",
+                "choices": [
+                    {
+                        "choice_name": "ทำงานได้โดยคอยรายงานสถานการณ์เป็นระยะ ๆ ที่เหมาะสม มีความระมัดระวังและรอบคอบในการทำงาน ไม่ต้องให้พี่มาคอยตามงาน ทำงานให้เหมาะสมกับ process และ standard guildline ต่าง ๆ",
+                        "choice_maxpoint": "5",
+                        "choice_minpoint": "5"
+                    },
+                    {
+                        "choice_name": "ทำงานได้โดยมีความระมัดระวังและรอบคอบในการทำงาน แต่ยังต้องให้พี่มาคอยตามงานอยู่ ต้องมีคน guild เรื่อง standard และ process ต่าง ๆ อยู่",
+                        "choice_maxpoint": "4",
+                        "choice_minpoint": "4"
+                    },
+                    {
+                        "choice_name": "ทำงานได้โดยไม่ค่อยมีระมัดระวังและรอบคอบในการทำงาน และยังให้พี่มาคอยตามงานอยู่",
+                        "choice_maxpoint": "3",
+                        "choice_minpoint": "3"
+                    },
+                    {
+                        "choice_name": "ละเลยในการทำงาน ต้องให้พี่มาสั่งงานเป็นขั้น ๆ และเป็นระยะ ๆ",
+                        "choice_maxpoint": "2",
+                        "choice_minpoint": "0"
+                    }
+                ]
+            },{
+                "subtopic_name": "3. ความเอาใจใส่ต่องานและการติดตาม",
+                "choices": [
+                    {
+                        "choice_name": "ทำงานได้โดยคอยรายงานสถานการณ์เป็นระยะ ๆ ที่เหมาะสม มีความระมัดระวังและรอบคอบในการทำงาน ไม่ต้องให้พี่มาคอยตามงาน ทำงานให้เหมาะสมกับ process และ standard guildline ต่าง ๆ",
+                        "choice_maxpoint": "5",
+                        "choice_minpoint": "5"
+                    },
+                    {
+                        "choice_name": "ทำงานได้โดยมีความระมัดระวังและรอบคอบในการทำงาน แต่ยังต้องให้พี่มาคอยตามงานอยู่ ต้องมีคน guild เรื่อง standard และ process ต่าง ๆ อยู่",
+                        "choice_maxpoint": "4",
+                        "choice_minpoint": "4"
+                    },
+                    {
+                        "choice_name": "ทำงานได้โดยไม่ค่อยมีระมัดระวังและรอบคอบในการทำงาน และยังให้พี่มาคอยตามงานอยู่",
+                        "choice_maxpoint": "3",
+                        "choice_minpoint": "3"
+                    },
+                    {
+                        "choice_name": "ละเลยในการทำงาน ต้องให้พี่มาสั่งงานเป็นขั้น ๆ และเป็นระยะ ๆ",
+                        "choice_maxpoint": "2",
+                        "choice_minpoint": "0"
+                    }
+                ]
+            }],
+            
+        },{
+            "topic_name": "การทำงานร่วมกับผู้อื่น",
+            "subtopics": [{
+                "subtopic_name": "ความร่วมมือ , ช่วยเหลือ,ประสานงาน",
+                "choices": [
+                    {
+                        "choice_name": "ในเวลางานให้ความร่วมมือ, ช่วยเหลือ, ประสานงาน 100% โดยต้องไม่กระทบกับงานที่รับผิดชอบอยู่",
+                        "choice_maxpoint": "3",
+                        "choice_minpoint": "3"
+                    },
+                    {
+                        "choice_name": "ในเวลางานให้ความร่วมมือ, ช่วยเหลือ, ประสานงาน 100% โดยต้องไม่กระทบกับงานที่รับผิดชอบอยู่",
+                        "choice_maxpoint": "3",
+                        "choice_minpoint": "3"
+                    },
+                    {
+                        "choice_name": "ในเวลางานให้ความร่วมมือ, ช่วยเหลือ, ประสานงาน 100% โดยต้องไม่กระทบกับงานที่รับผิดชอบอยู่",
+                        "choice_maxpoint": "3",
+                        "choice_minpoint": "3"
+                    },
+                    {
+                        "choice_name": "ในเวลางานให้ความร่วมมือ, ช่วยเหลือ, ประสานงาน 100% โดยต้องไม่กระทบกับงานที่รับผิดชอบอยู่",
+                        "choice_maxpoint": "3",
+                        "choice_minpoint": "3"
+                    }
+                ]
+            }]
+            
+        }],
+        "im_evaluation_grade": [
+            { "grade_name": "A", "grade_maxpoint": 1, "grade_minpoint": 1 },
+            { "grade_name": "B", "grade_maxpoint": 1, "grade_minpoint": 1 }
+        ],
+        "im_evaluation_form": {
+            "form_name": "Individual Development Plan", "form_description": "Individual Development Plan Version 1"
+        }
+    }]
 }
